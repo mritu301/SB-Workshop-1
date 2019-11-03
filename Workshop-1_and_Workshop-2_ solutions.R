@@ -1,5 +1,5 @@
 ﻿###########################################################
-# Workshop 1.2 solution
+# Workshop-1 solution
 ###########################################################
 
 # a. Create four vectors: Film, Studio, TopGross, OpenQuarter.
@@ -142,7 +142,7 @@ ggplot(QuarterMean, aes(x=Quarter,y=x)) + geom_point()
 
 
 ###########################################################
-# Workshop 2.1 solution
+# Workshop-2 solution
 ###########################################################
 
 # a. Read in the data from the csv file.
